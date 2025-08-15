@@ -1,2 +1,2 @@
-# loading-animation
-loading animation Design using HTML &amp; CSS
+# Search bar
+Search bar Design using HTML &amp; CSS
